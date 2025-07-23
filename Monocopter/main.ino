@@ -70,7 +70,7 @@ void setup() {
   bmi.setAccelDataRate(BMI088_DATARATE_100_HZ);
   bmi.setGyroDataRate(BMI088_GYRO_DATARATE_100_HZ);
 
-  delay(5000);
+  delay(500);
 }
 
 void loop() {
